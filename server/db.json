@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Harini",
+      "email": "khaeini@gmail.commm",
+      "age": "21"
+    },
+    {
+      "id": 2,
+      "username": "Siva",
+      "email": "sjdsn@gmail.om",
+      "age": "23"
+    },
+    {
+      "id": 4,
+      "username": "smndhbn",
+      "email": "sndhnj@gmail.com",
+      "age": "23"
+    },
+    {
+      "id": 6,
+      "username": "Durai",
+      "email": "durai@gmail.com",
+      "age": "35"
+    },
+    {
+      "id": 7,
+      "username": "abi",
+      "email": "abi@gmail.com",
+      "age": "52"
+    },
+    {
+      "id": 8,
+      "username": "Kumar",
+      "email": "kumar@gmail.com",
+      "age": "50"
+    },
+    {
+      "id": 9,
+      "username": "pradeep",
+      "email": "pradeep@gmail.com",
+      "age": "43"
+    },
+    {
+      "id": 10,
+      "username": "shalini",
+      "email": "shalini@gmail.com",
+      "age": "18"
+    }
+  ]
+}
